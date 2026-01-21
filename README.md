@@ -1,4 +1,4 @@
-## Hello!
+## Hello! I'm Maria
 I'm a **Mechatronics Engineering student** passionate about **3D design** and **robotics** 🤖.  
 
 In my free time, I enjoy learning:  
