@@ -2,8 +2,8 @@
 I'm a **Mechatronics Engineering student** passionate about **3D design** and **robotics** 🤖.  
 
 In my free time, I enjoy learning:  
-- 🛠 **Arduino** – tinkering with electronics and building cool projects  
-- 🖊 **AutoCAD** – designing 3D models and mechanical parts  
+- 🛠 **Arduino**: tinkering with electronics and building cool projects  
+- 🖊 **AutoCAD**: designing 3D models and mechanical parts  
 
 When I'm not studying or coding, you can find me exploring new tech, robotics challenges, or just experimenting with new ideas 💡.  
 
